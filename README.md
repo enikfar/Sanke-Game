@@ -5,6 +5,6 @@ Snake </h1>
   <img src="snake.gif" width="350" alt="accessibility text">
 </p>
 <p>
-Pong is a simple "tennis like" game features two paddles and a ball, the goal is to defeat your opponent by being the first one to gain10 point, a player gets a point once the opponent misses a ball. The game can be played with two human players. 
+The game involves controlling a single block or snakehead by turning only left or right by ninety degrees until you manage to eat a dot. When you get the dot, the Snake grows an extra block or body segment.
 I used the Turtle graphical library using python to make this game.
 </p>
